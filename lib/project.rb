@@ -4,7 +4,7 @@ class Projects
 
   def initialization(title)
     @title = title
-    @backers << backer
+    @backers << Backer
   end
 
 
