@@ -7,5 +7,5 @@ class Projects
     @backers << backer
   end
 
-  
+
 end
